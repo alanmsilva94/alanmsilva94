@@ -1,4 +1,4 @@
-Olá, eu sou Alan Moura 👋!
+Olá, eu sou Alan Moura!👋
 
 Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas pelo Senac. Sou apaixonado por tecnologia, desenvolvimento de software e sempre em busca de aprimorar minhas habilidades.
 
