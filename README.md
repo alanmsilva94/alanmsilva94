@@ -18,4 +18,5 @@ Fique à vontade para explorar e acompanhar minha evolução! 🚀
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eo_moura)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-moura-718a35160)
+
 ![Alan Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmsilva94&show_icons=true&theme=radical)
