@@ -10,13 +10,30 @@
 </div><br/>
 
 
-### Olá, eu sou Alan Moura!👋
+### Olá, eu sou o Alan Moura! 👋
 
-Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas pelo Senac. Sou apaixonado por tecnologia, desenvolvimento de software e sempre em busca de aprimorar minhas habilidades.
+​👨‍💻 Analista e Desenvolvedor de Sistemas em Formação. ​Recentemente concluí minha formação técnica e agora estou mergulhado na graduação, focado em transformar conceitos em soluções reais. Sou apaixonado pelo processo de aprendizado contínuo e pela construção de softwares que resolvam problemas do cotidiano.
 
-Aqui no meu GitHub, você vai encontrar projetos práticos, códigos e aprendizados que estão fazendo parte da minha jornada como desenvolvedor.
+​🎓 Formação: Técnico em Desenvolvimento de Sistemas (Senac - Concluído em 2025)
 
-Fique à vontade para explorar e acompanhar minha evolução! 🚀
+​🚀 Graduação: Analista e Desenvolvimento de Sistemas (Anhanguera - Em curso)
+
+​🌱 Foco Atual: Consolidando lógica de programação e arquitetura de sistemas.
+
+​🛠️ Minha Stack de Estudos
+​Atualmente, trabalho e estudo com as seguintes tecnologias (nível fundamental):
+​Linguagens: Java, Python e JavaScript.
+​Front-end: HTML5 e CSS3.
+​Banco de Dados: MySQL.
+​Versionamento: Git e GitHub.
+
+​📈 Meu Caminho na Tecnologia
+​Aqui no meu GitHub, você encontrará:
+​Projetos integradores realizados durante o técnico no Senac.
+​Exercícios de lógica e algoritmos da faculdade.
+​Meus primeiros passos em aplicações Full Stack.
+
+​📫 Vamos nos conectar?
 
 ![Alan Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmsilva94&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmsilva94&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
