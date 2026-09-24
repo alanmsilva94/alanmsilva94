@@ -1,0 +1,59 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # GitHub Stats
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alanmsilva94
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+
+      # Top Languages
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alanmsilva94
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          config_timezone: America/Sao_Paulo
+
+      # Activity (calendário isométrico)
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alanmsilva94
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: America/Sao_Paulo
+
+      # Troféus (conquistas)
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alanmsilva94
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_timezone: America/Sao_Paulo
