@@ -46,14 +46,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           config_timezone: America/Sao_Paulo
-
-      # Troféus (conquistas)
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: alanmsilva94
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          config_timezone: America/Sao_Paulo
