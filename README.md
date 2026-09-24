@@ -72,8 +72,11 @@ public class AlanMoura {
 ## `> estatísticas`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alanmsilva94&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=e879f9&border_color=3b0764&border_radius=10" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmsilva94&layout=compact&langs_count=6&locale=pt-br&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=3b0764&border_radius=10" alt="Top Languages"/>
+  <img src="./metrics.stats.svg" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -84,14 +87,14 @@ public class AlanMoura {
 ## `> atividade`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanmsilva94&bg_color=0d1117&color=c9d1d9&line=a855f7&point=e879f9&area=true&area_color=a855f7&title_color=a855f7&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" width="100%" alt="Activity Graph"/>
+  <img src="./metrics.activity.svg" alt="Atividade"/>
 </p>
 
 <!-- ═══════════════════ TROFÉUS ═══════════════════ -->
 ## `> troféus`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alanmsilva94&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=-1" alt="GitHub Trophies"/>
+  <img src="./metrics.achievements.svg" alt="Conquistas"/>
 </p>
 
 <!-- ═══════════════════ SNAKE ═══════════════════ -->
