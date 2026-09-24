@@ -90,11 +90,13 @@ public class AlanMoura {
   <img src="./metrics.activity.svg" alt="Atividade"/>
 </p>
 
-<!-- ═══════════════════ TROFÉUS ═══════════════════ -->
-## `> troféus`
+<!-- ═══════════════════ CONQUISTAS ═══════════════════ -->
+## `> conquistas`
 
 <p align="center">
-  <img src="./metrics.achievements.svg" alt="Conquistas"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Falanmsilva94&query=%24.public_repos&label=reposit%C3%B3rios&style=for-the-badge&logo=github&logoColor=a855f7&color=a855f7&labelColor=0d1117" alt="Repositórios"/>
+  <img src="https://img.shields.io/github/followers/alanmsilva94?label=seguidores&style=for-the-badge&logo=github&logoColor=a855f7&color=a855f7&labelColor=0d1117" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/alanmsilva94?affiliations=OWNER&label=stars&style=for-the-badge&logo=github&logoColor=a855f7&color=a855f7&labelColor=0d1117" alt="Stars"/>
 </p>
 
 <!-- ═══════════════════ SNAKE ═══════════════════ -->
