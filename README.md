@@ -58,14 +58,49 @@ public class AlanMoura {
 <!-- ═══════════════════ PROJETOS ═══════════════════ -->
 ## `> projetos`
 
-<p align="center">
-  <a href="https://github.com/alanmsilva94/sistema-pagamentos-spring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alanmsilva94&repo=sistema-pagamentos-spring&locale=pt-br&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=e879f9&border_color=3b0764&border_radius=10" alt="sistema-pagamentos-spring"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alanmsilva94/sistema-pagamentos-spring"><b>📂 sistema-pagamentos-spring</b></a><br/>
+      <sub>Sistema de gestão de empresas e pagamentos em Spring Boot.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="Spring Boot"/> <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="MySQL"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alanmsilva94/portal-dashboards-financeiros"><b>📂 portal-dashboards-financeiros</b></a><br/>
+      <sub>Portal com login, controle de acesso e 4 dashboards financeiros (Apps Script).</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Apps_Script-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="Apps Script"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="HTML"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alanmsilva94/gestao-maquinas-cartao"><b>📂 gestao-maquinas-cartao</b></a><br/>
+      <sub>Sistema offline para gerir máquinas de cartão e trocas (MVC, IndexedDB, SheetJS).</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="JavaScript"/> <img src="https://img.shields.io/badge/IndexedDB-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="IndexedDB"/> <img src="https://img.shields.io/badge/MVC-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="MVC"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alanmsilva94/dashboard-cartoes-corporativos"><b>📂 dashboard-cartoes-corporativos</b></a><br/>
+      <sub>Controle de cartões de crédito corporativos com Chart.js e SheetJS.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="JavaScript"/> <img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="Chart.js"/> <img src="https://img.shields.io/badge/SheetJS-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="SheetJS"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alanmsilva94/dashboard-fluxo-de-caixa"><b>📂 dashboard-fluxo-de-caixa</b></a><br/>
+      <sub>Fluxo de caixa: entradas, saídas, resultado e setores com gráficos interativos.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="CSS"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/alanmsilva94/dashboard-maquinas-cartoes"><b>📂 dashboard-maquinas-cartoes</b></a><br/>
+      <sub>Receita de máquinas de cartão por localidade e estado (MVC, Plotly).</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="JavaScript"/> <img src="https://img.shields.io/badge/Plotly-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="Plotly"/> <img src="https://img.shields.io/badge/MVC-0d1117?style=flat-square&labelColor=0d1117&color=3b0764" alt="MVC"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/novos_projetos-em_constru%C3%A7%C3%A3o-a855f7?style=flat-square&labelColor=0d1117" alt="Novos projetos em construção"/>
+  <a href="https://github.com/alanmsilva94?tab=repositories">
+    <img src="https://img.shields.io/badge/ver_todos_os_reposit%C3%B3rios-a855f7?style=flat-square&labelColor=0d1117" alt="Ver todos os repositórios"/>
+  </a>
 </p>
 
 <!-- ═══════════════════ ESTATÍSTICAS ═══════════════════ -->
